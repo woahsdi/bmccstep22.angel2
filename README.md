@@ -1,1 +1,2 @@
 # bmccstep22.angel2
+7,18,22. in todays lesson i learned alot today, being able to show different commands and sorting out numbers in differnt ways. i still think i need swome more practice because at times coding still does get confusing to me for example, for the smalles mistake lime accidentilly leaving a period point at the end of the script and having to figure what i did wrong is something that i still have to learn well. all in all, this is really fun i enjoyed it. 
