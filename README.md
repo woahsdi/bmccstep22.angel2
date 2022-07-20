@@ -1,2 +1,4 @@
 # bmccstep22.angel2
 7,18,22. in todays lesson i learned alot today, being able to show different commands and sorting out numbers in differnt ways. i still think i need swome more practice because at times coding still does get confusing to me for example, for the smalles mistake lime accidentilly leaving a period point at the end of the script and having to figure what i did wrong is something that i still have to learn well. all in all, this is really fun i enjoyed it. 
+7,20,22
+hello, todays was a little more tought for me i felt like because now that i am advacning more into PYTHON, this is making the coding experiance a little bit more challening for me. overall, i am hearning now; one of the tings that i know well is doing basic math or any basic calculation codes. i look foward to keep on going foward and i hope to learn how to make scrips to things that i would like to make it be.
